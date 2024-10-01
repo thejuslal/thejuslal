@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Thejus Lal!
-
 I’m a passionate developer with a strong interest in Machine Learning, Natural Language Processing, and Data Science. I love building projects that solve real-world problems and contribute to open-source communities. Welcome to my GitHub profile!
 
 🔭 What I’m Working On
